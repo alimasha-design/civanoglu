@@ -87,4 +87,4 @@
     </div>
 </div>
 
-<img src="/img/footer.jpg" alt="">
+<img src="/img/footer.png" alt="">
